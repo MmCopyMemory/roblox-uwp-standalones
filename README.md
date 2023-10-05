@@ -1,2 +1,2 @@
-# roblox-uwp-standalones
-Standalone cheats for uwp roblox
+# standalones
+All files in here use MemJect( https://github.com/danielkrupinski/MemJect )
